@@ -114,4 +114,4 @@ MIT License - see LICENSE file for details.
 
 **Mykhailo Halinin**
 - Email: mykhailohalinin@gmail.com
-- GitHub: [@mykhailo-halinin](https://github.com/mykhailo-halinin)
+- GitHub: [@mykhailo-halinin](https://github.com/mghalinin)
