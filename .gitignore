@@ -1,0 +1,34 @@
+# Build outputs
+build/
+.gradle/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Kotlin Multiplatform
+*.kotlin_module
+
+# Android
+local.properties
+
+# iOS
+xcuserdata/
+*.xcworkspace/
+DerivedData/
+
+# Temporary files
+*.tmp
+*.bak
+*~
